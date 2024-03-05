@@ -11,10 +11,10 @@ This is a shopping market made with python alone.It allows the user to buy fruit
 Attributes used to construct this programs includes:
 
 ## Files used
-* A CSV file of fruits contains vareity of fruits and its respective cost
-* A CSV file of vegetables contains vareity of fruits and its respective cost
-* A CSV file of households contains vareity of fruits and its respective cost
-* A CSV file of schoolsupplies contains vareity of fruits and its respective cost
+* A CSV file of fruits and its respective cost
+* A CSV file of vegetables and its respective cost
+* A CSV file of households and its respective cost
+* A CSV file of schoolsupplies and its respective cost
 * A text file for discount coupons
 * A text file to indicate the libraries installed for this project developement
 * A text file to store the feedback from the user about the user experience
