@@ -1,10 +1,8 @@
 # Best Buy, The Online Market Place
-#### Video Demo:  [video link](https://youtu.be/zv9DKwvuMOA?si=dfqkBt7eXWa1bRJs)
 #### Description: Best buy is a python program which is used to make a user-friendly digital adaptation of selling market of a popular shop "H&M"
 
 
 ## Introduction:
-I am Monish Kumar from TamilNadu,India and this is my CS50P Final Project
 
 This is a shopping market made with python alone.It allows the user to buy fruits,vegetables,household items and schoolsupplies.Since it is made only for the terminal window, libraries like cowsay,figlet and inflect been used to make the terminal user interactive
 
